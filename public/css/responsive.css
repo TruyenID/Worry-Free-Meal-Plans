@@ -1,0 +1,468 @@
+@media only screen and (max-width:1200px) {
+    .favories-img img {
+        width: 100%;
+    }
+    .img-banner img{
+        width: 100%;
+    }
+    .options{
+        max-width: 518px;;
+    }
+    .img-options{
+        height: 80px;
+    }
+    .container {
+        max-width: 80%;
+    }
+    .img-options img {
+        width: 100px;
+    }
+    .favorites-items {
+        margin-left: -15px;
+        margin-right: -15px;
+        padding: 0px;
+    }
+
+    .title-plans {
+        font-size: 2rem;
+    }
+
+    .img-plans img {
+        width: 100%;
+    }
+
+    .order-plans {
+        padding: 10px;
+    }
+
+    .content-plans {
+        padding-top: 0px;
+    }
+
+    .salad p {
+        margin-top: 0px;
+    }
+
+    .title-plans h2 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .items-product-plans {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .items-product-plans-love {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 60px;
+    }
+    .img-plans {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .plans-container {
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+
+    .title-plans {
+        font-size: 2rem;
+    }
+    .item-plans img {
+        width: 200px;
+    }
+
+    .plans-container {
+        align-items: center;
+    }
+
+    .process-des {
+        padding: 0;
+        font-size: 11px;
+    }
+    .process-container-item{
+        height: 280px;
+    }
+    .process-title p {
+        font-size: 20px;
+    }
+    .title-plans-love{
+        width:350px;
+        font-size: 45px;
+    }
+    .des-plans{
+        width: 300px;
+    }
+    .title-plans-love h2 {
+        margin-bottom: 20px;
+        margin-top:0px;
+    }
+    .recipes-container{
+        padding-bottom: 50px;
+    }
+    .title-banner h2{
+        font-size:60px;
+    }
+    .des-options{
+        font-size: 10px;
+    }   
+}
+
+@media only screen and (max-width:1024px) {
+    .favories-des p {
+        width: 200px;
+    }
+
+    .favories-img img {
+        width: 100%;
+    }
+    .banner-container{
+        display: flex;
+        padding-bottom: 100px;
+    }
+    .content-plans {
+        padding-top: 30px;
+    }
+    .milkfish{
+        width: 280px;
+    }
+    .milkfish-title {
+        padding: 90px 60px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .menu-header{
+        display: none;
+    }
+    .fa-backspace{
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        display: block;
+    }
+    .options{
+        padding-bottom: 0px;
+        bottom: 30px;
+    }
+    .banner-container{
+        display: block;
+        padding-bottom: 300px;
+    }
+    .title-banner h2 {
+        font-size: 80px;
+    }
+    #toggle{
+        display: inline-block;
+
+    }
+    #toggle i{
+        border:3px solid black;
+        padding: 10px;
+    }
+    .buy-header {
+        float: right;
+        margin-top: 10px;
+    }
+    .logo{
+        text-align: center;
+        padding-bottom: 30px
+    }
+    .process-title p {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .header-container{
+        display: block;
+        height: 200px;
+        padding-top:30px;
+    }
+    .favories-des p {
+        width: 100%;
+        font-size: 11px;
+    }
+
+    .favories-img img {
+        width: 100%;
+    }
+
+    .favorites-items {
+        display: block;
+    }
+
+    .favortites-container-item {
+        margin-bottom: 30px;
+        padding: 20px 20px 34px 20px
+    }
+
+    .favorites-title{
+        font-size: 16px;
+        width: 100%;
+    }
+    .process-img {
+        height: 100px
+    }
+    .plans-container {
+        display: block;
+    }
+
+    .item-plans img {
+        width: 100%;
+    }
+
+    .title-plans {
+        font-size: 3rem;
+    }
+
+    .items-product-plans {
+        margin-top: 50px;
+    }
+
+    .des-plans {
+        width: 100%;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .process-container-item {
+        margin-bottom: 30px;
+        height: 200px;
+    }
+    .recipes-container{
+        display: block;
+    }
+    .plans-love-container {
+        display: block;
+    }
+    .title-plans-love{
+        width: 100%;
+    }
+    .title-plans-love {
+        font-size: 43px;
+    }
+    .milkfish {
+        width: 50%;
+        height: 50%;
+    }
+    .milkfish-title {
+        padding: 50px 60px;
+        width: 170px;
+        margin: 0 auto;
+    }
+    .say-container h2 {
+        font-size: 80px;
+    }
+    .items-say{
+        display: block;
+    }
+    .item-say{
+        padding-bottom: 50px;
+    }
+    .title-made h2{
+        width: 600px;
+        font-size:80px;
+    }
+    .items-footer{
+        display: block;
+        text-align: center;
+    }
+    .item-footer{
+        padding-bottom:30px;
+    }
+    .footer{
+        padding-top:120px;
+    }
+    .end-footer{
+        display: block;
+        text-align: center;
+    }
+    .des-end-footer{
+        padding-bottom: 20px;
+    }
+    .img-banner{
+        margin-left: 0px;
+    }
+    .menu-header ul {
+        display: block;
+    }
+    .menu-header{
+        position: fixed;
+        left: -400px;
+        width: 30%;
+        background-color:rgb(106, 106, 106);
+        z-index: 3;
+        height: 100%;
+        top:50%;
+        opacity: 0.5;
+        transform: translateY(-50%);
+    }
+    .menu-header ul li a {
+        color:#ffece1;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .favories-des p {
+        width: 100%;
+        font-size: 8px;
+    }
+
+    .favories-img img {
+        width: 100%;
+    }
+
+    .favorites-items {
+        display: block;
+    }
+    .favorites-item {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .favortites-container-item {
+        margin-bottom: 30px;
+    }
+    .favortites-container-item {
+        padding: 20px 10px 20px 10px;
+    }
+    .favorites-title p {
+        font-size: 14px;
+        width: 100%;
+    }
+    .process-img img {
+        width: 70px;
+    }
+    .process-img {
+        height: 70px;
+    }
+    .process-container-item {
+        padding: 20px 10px 30px 10px;
+    }
+    .process-container-item {
+        height: 165px;
+    }
+    .process-des {
+        padding: 0;
+        font-size: 8px;
+    }
+    .favorites-container{
+        padding-bottom: 60px
+    }
+    .favorites-container h2 {
+        font-size: 3rem;
+    }
+    .title-plans-love {
+        font-size: 25px;
+    }
+    .title-plans {
+        font-size: 24px;
+    }
+    .milkfish-title {
+        padding: 50px 0px;
+        width: 150px;
+    }
+    .say-container h2 {
+        font-size: 40px;
+    }
+    .des-made {
+        width: 350px;
+    }
+    .title-made h2 {
+        width: 350px;
+        font-size: 50px;
+    }
+    .title-options{
+        left: 15px;
+    }
+    .arrow-banner{
+        font-size: 10px;
+    }
+    .options-container{
+        padding-right: 10px;
+    }
+    .title-banner h2 {
+        font-size: 60px;
+    }
+    .options {
+        max-width: 480px;
+    }
+    .img-options img {
+        width: 95px;
+    }
+}
+@media only screen and (max-width:480px) {
+    .favorites-container h2 {
+        font-size: 2.5rem;
+    }
+    .options-container{
+        height: 135px;
+    }
+    .arrow-banner-hide{
+        width: 20px;
+    }
+    .img-options img {
+        width: 71px;
+    }
+    .banner-container {
+        padding-bottom: 200px;
+    }
+    .options {
+        max-width: 365px;
+    }
+    .favorites-title p {
+        font-size: 10px;
+    }
+    .process-img img {
+        width: 50px;
+    }
+    .process-img{
+        height: 50px;
+    }
+    .process-title p {
+        padding-bottom: 10px;
+    }
+    .process-container-item {
+        height: 150px;
+    }
+    .journey-more {
+        display: block;
+    }
+    .banner-container{
+        padding-top:20px;
+    }
+    .img-options {
+        height: 60px;
+    }
+    .title-img-banner, .des-banner{
+        width: 100%;
+    }
+    .title-banner h2 {
+        font-size: 50px;
+    }
+    .learn-more{
+        margin-left: 0;
+        padding-top:10px;
+    }
+    .journey a, .learn-more a{
+        display: inline-block;
+    }
+    .milkfish-title {
+        padding: 50px 20px;
+        width: 100px;
+        margin: 0 auto;
+        font-size: 10px;
+    }
+    .des-made {
+        width: 300px;
+    }
+    .title-made h2 {
+        width: 300px;
+        font-size: 40px;
+    }
+    .made-container {
+        transform: translateY(250px);
+    }
+}
